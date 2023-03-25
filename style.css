@@ -89,3 +89,7 @@ body {
   transform-style: preserve-3d;
   background: linear-gradient(to bottom, #00c4ff, #0064ff);
 }
+
+.footer{
+    color: antiquewhite;
+}
